@@ -1,0 +1,9 @@
+{
+  "name": "Heavy Oil Ops SCADA",
+  "short_name": "HeavyOilSim",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101417",
+  "theme_color": "#e67e22",
+  "orientation": "portrait"
+}
